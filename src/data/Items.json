@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Pineapple",
+    "price": 9.99,
+    "imgUrl": "./imgs/ananases.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Apple",
+    "price": 5.99,
+    "imgUrl": "./imgs/apples.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Avocado",
+    "price": 8.99,
+    "imgUrl": "./imgs/avocados.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Banana",
+    "price": 7.99,
+    "imgUrl": "./imgs/banana.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Chery",
+    "price": 4.99,
+    "imgUrl": "./imgs/cherries.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Orange",
+    "price": 7.99,
+    "imgUrl": "./imgs/oranges.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Kiwifruit",
+    "price": 6.99,
+    "imgUrl": "./imgs/kivis.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Lemon",
+    "price": 5.99,
+    "imgUrl": "./imgs/lemons.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Lime",
+    "price": 5.99,
+    "imgUrl": "./imgs/limes.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Grape",
+    "price": 7.99,
+    "imgUrl": "./imgs/grapes.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Plum",
+    "price": 8.99,
+    "imgUrl": "./imgs/plumps.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Watermelon",
+    "price": 10.99,
+    "imgUrl": "./imgs/watermelon.jpg"
+  }
+]
